@@ -1,0 +1,2 @@
+ Ce hook permet d'effectuer des effets de côté dans un composant fonctionnel.
+ Il est utilisé pour gérer des tâches telles que les appels réseau, les abonnements ou les modifications du DOM.

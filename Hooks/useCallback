@@ -1,0 +1,2 @@
+Ce hook est utilisé pour mémoriser une fonction en cas de rendus répétés, afin d'éviter de recréer la fonction à chaque fois. 
+Cela est utile lorsque vous transmettez des fonctions en tant que props aux composants enfants.

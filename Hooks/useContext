@@ -1,0 +1,2 @@
+Ce hook est utilisé pour accéder à un contexte créé avec `React.createContext` à partir de n'importe quel composant fils.
+Il permet d'éviter les "props drilling" en transmettant les données à travers de nombreux niveaux de composants.

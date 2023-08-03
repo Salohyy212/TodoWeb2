@@ -1,0 +1,2 @@
+Ce hook est utilisé pour créer une référence mutable qui persiste entre les rendus. 
+Il est utile pour accéder aux éléments du DOM ou pour stocker des valeurs persistantes sans déclencher de nouveau rendu.
