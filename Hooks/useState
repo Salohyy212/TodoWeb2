@@ -1,0 +1,2 @@
+Ce hook est utilisé pour gérer l'état local dans un composant fonctionnel. 
+Il retourne un tableau contenant l'état courant et une fonction pour le mettre à jour. 
