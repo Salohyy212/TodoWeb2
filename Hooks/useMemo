@@ -1,0 +1,2 @@
+ Ce hook est utilisé pour mémoriser un résultat calculé en fonction des dépendances.
+ Il évite de recalculer la valeur à chaque rendu si les dépendances n'ont pas changé.
