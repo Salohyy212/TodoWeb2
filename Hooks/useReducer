@@ -1,0 +1,2 @@
+Ce hook est une alternative à `useState` pour gérer les états complexes avec des transitions plus avancées.
+Il utilise un modèle de conception de réducteur similaire à Redux. 
